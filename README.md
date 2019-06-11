@@ -10,4 +10,4 @@ A blog post containing an easy to understand example demonstrating google's page
 
 ![img](https://imgur.com/fFoMxaA.png)
 
-A line by line guide on building this simple graph based recommendation system written by me can be accessed from this [link](https://pswaldia.github.io/2019-06-12-sixth-post/)
+A line by line guide on building this simple graph based recommendation system written by me can be accessed from this [link](https://pswaldia.github.io/2019-06-12-sixth-post/) and code can be found at [`bi_recommendation.py`](https://github.com/pswaldia/SocialNetwork-Analysis/blob/master/bi_recommendation.py)
